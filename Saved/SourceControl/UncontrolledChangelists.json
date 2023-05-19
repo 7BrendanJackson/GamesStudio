@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/s5262614/Documents/GitHub/GamesStudio/Content/ThirdPerson/Blueprints/BP_RegrowthCharacter.uasset",
+				"C:/Users/s5262614/Documents/GitHub/GamesStudio/Content/Levels/GrassGrowing.umap",
+				"C:/Users/s5262614/Documents/GitHub/GamesStudio/Content/Materials/M_GrassColorDrain.uasset",
 				"C:/Users/s5262614/Desktop/GamesStudio/Content/Materials/M_ColorDrain.uasset",
 				"C:/Users/s5262614/Desktop/GamesStudio/Content/BP_ColorGem.uasset",
 				"C:/Users/s5262614/Desktop/GamesStudio/Content/Blueprints/I_Interact.uasset",
