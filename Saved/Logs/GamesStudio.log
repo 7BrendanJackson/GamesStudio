@@ -22026,3 +22026,265 @@ Please use /Niagara/DynamicInputs/Angles/AngleConversion.AngleConversion instead
 [2023.05.26-04.48.26:765][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 1:16 min)
 [2023.05.26-04.48.26:771][101]AssetCheck: New page: Asset Save: GrassGrowing
 [2023.05.26-04.48.26:771][101]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/GrassGrowing.GrassGrowing
+[2023.05.26-04.49.51:304][962]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.05.26-04.49.51:304][962]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.05.26-04.50.48:592][658]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_PlayerLocationToNiagara.BP_PlayerLocationToNiagara
+[2023.05.26-04.50.48:593][658]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.26-04.51.50:571][719]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.26-04.51.50:571][719]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.26-04.51.50:571][719]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.26-04.53.31:893][629]BlueprintLog: New page: Compile BP_PlayerLocationToNiagara
+[2023.05.26-04.53.31:952][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.05.26-04.53.32:017][629]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.26-04.53.32:068][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerLocationToNiagara" FILE="../../../../../Users/s5262614/Desktop/GamesStudio/Content/Blueprints/BP_PlayerLocationToNiagara.uasset" SILENT=true
+[2023.05.26-04.53.32:091][629]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerLocationToNiagara
+[2023.05.26-04.53.32:092][629]LogSavePackage: Moving '../../../../../Users/s5262614/Desktop/GamesStudio/Saved/BP_PlayerLocationToNiagaraB55859A84ED9419A3BAC60BDE6203B13.tmp' to '../../../../../Users/s5262614/Desktop/GamesStudio/Content/Blueprints/BP_PlayerLocationToNiagara.uasset'
+[2023.05.26-04.53.32:099][629]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 1:17 min)
+[2023.05.26-04.53.32:106][629]AssetCheck: New page: Asset Save: BP_PlayerLocationToNiagara
+[2023.05.26-04.53.32:106][629]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_PlayerLocationToNiagara.BP_PlayerLocationToNiagara
+[2023.05.26-04.53.51:038][771]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.05.26-04.53.51:038][771]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.05.26-04.53.53:164][  7]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.05.26-04.53.53:164][  7]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.05.26-04.53.56:665][393]BlueprintLog: New page: Compile BP_PlayerLocationToNiagara
+[2023.05.26-04.53.56:725][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.05.26-04.53.56:786][393]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.26-04.53.56:836][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerLocationToNiagara" FILE="../../../../../Users/s5262614/Desktop/GamesStudio/Content/Blueprints/BP_PlayerLocationToNiagara.uasset" SILENT=true
+[2023.05.26-04.53.56:848][393]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerLocationToNiagara
+[2023.05.26-04.53.56:849][393]LogSavePackage: Moving '../../../../../Users/s5262614/Desktop/GamesStudio/Saved/BP_PlayerLocationToNiagaraD05035664BB5CD43C38A13A153A987EA.tmp' to '../../../../../Users/s5262614/Desktop/GamesStudio/Content/Blueprints/BP_PlayerLocationToNiagara.uasset'
+[2023.05.26-04.53.56:856][393]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 1:17 min)
+[2023.05.26-04.53.56:863][393]AssetCheck: New page: Asset Save: BP_PlayerLocationToNiagara
+[2023.05.26-04.53.56:863][393]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_PlayerLocationToNiagara.BP_PlayerLocationToNiagara
+[2023.05.26-04.53.58:478][562]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.05.26-04.53.58:478][562]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.05.26-04.54.05:115][318]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.05.26-04.54.05:116][318]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.05.26-04.55.09:438][702]LogSlate: Window 'Change Variable Type' being destroyed
+[2023.05.26-04.55.11:405][912]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.05.26-04.55.11:410][912]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.05.26-04.55.48:504][233]BlueprintLog: New page: Compile BP_PlayerLocationToNiagara
+[2023.05.26-04.55.48:515][233]LogScript: Warning: Accessed None trying to read property ParticleSystem
+	BP_PlayerLocationToNiagara_C /Game/Levels/GrassGrowing.GrassGrowing:PersistentLevel.BP_PlayerLocationToNiagara_C_1
+	Function /Game/Blueprints/BP_PlayerLocationToNiagara.BP_PlayerLocationToNiagara_C:UserConstructionScript:0016
+[2023.05.26-04.55.48:515][233]LogScript: Warning: Accessed None trying to read property ParticleSystem
+	BP_PlayerLocationToNiagara_C /Game/Levels/GrassGrowing.GrassGrowing:PersistentLevel.BP_PlayerLocationToNiagara_C_1
+	Function /Game/Blueprints/BP_PlayerLocationToNiagara.BP_PlayerLocationToNiagara_C:UserConstructionScript:0066
+[2023.05.26-04.55.48:515][233]LogScript: Warning: Accessed None trying to read property ParticleComponent
+	BP_PlayerLocationToNiagara_C /Game/Levels/GrassGrowing.GrassGrowing:PersistentLevel.BP_PlayerLocationToNiagara_C_1
+	Function /Game/Blueprints/BP_PlayerLocationToNiagara.BP_PlayerLocationToNiagara_C:UserConstructionScript:0087
+[2023.05.26-04.55.48:567][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.05.26-04.55.48:574][233]LogScript: Warning: Accessed None trying to read property ParticleSystem
+	BP_PlayerLocationToNiagara_C /Game/Levels/GrassGrowing.GrassGrowing:PersistentLevel.BP_PlayerLocationToNiagara_C_1
+	Function /Game/Blueprints/BP_PlayerLocationToNiagara.BP_PlayerLocationToNiagara_C:UserConstructionScript:0016
+[2023.05.26-04.55.48:574][233]LogScript: Warning: Accessed None trying to read property ParticleSystem
+	BP_PlayerLocationToNiagara_C /Game/Levels/GrassGrowing.GrassGrowing:PersistentLevel.BP_PlayerLocationToNiagara_C_1
+	Function /Game/Blueprints/BP_PlayerLocationToNiagara.BP_PlayerLocationToNiagara_C:UserConstructionScript:0066
+[2023.05.26-04.55.48:574][233]LogScript: Warning: Accessed None trying to read property ParticleComponent
+	BP_PlayerLocationToNiagara_C /Game/Levels/GrassGrowing.GrassGrowing:PersistentLevel.BP_PlayerLocationToNiagara_C_1
+	Function /Game/Blueprints/BP_PlayerLocationToNiagara.BP_PlayerLocationToNiagara_C:UserConstructionScript:0087
+[2023.05.26-04.55.48:591][233]LogScript: Warning: Accessed None trying to read property ParticleSystem
+	BP_PlayerLocationToNiagara_C /Game/Levels/GrassGrowing.GrassGrowing:PersistentLevel.BP_PlayerLocationToNiagara_C_1
+	Function /Game/Blueprints/BP_PlayerLocationToNiagara.BP_PlayerLocationToNiagara_C:UserConstructionScript:0016
+[2023.05.26-04.55.48:591][233]LogScript: Warning: Accessed None trying to read property ParticleSystem
+	BP_PlayerLocationToNiagara_C /Game/Levels/GrassGrowing.GrassGrowing:PersistentLevel.BP_PlayerLocationToNiagara_C_1
+	Function /Game/Blueprints/BP_PlayerLocationToNiagara.BP_PlayerLocationToNiagara_C:UserConstructionScript:0066
+[2023.05.26-04.55.48:591][233]LogScript: Warning: Accessed None trying to read property ParticleComponent
+	BP_PlayerLocationToNiagara_C /Game/Levels/GrassGrowing.GrassGrowing:PersistentLevel.BP_PlayerLocationToNiagara_C_1
+	Function /Game/Blueprints/BP_PlayerLocationToNiagara.BP_PlayerLocationToNiagara_C:UserConstructionScript:0087
+[2023.05.26-04.55.48:597][233]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.26-04.55.48:648][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerLocationToNiagara" FILE="../../../../../Users/s5262614/Desktop/GamesStudio/Content/Blueprints/BP_PlayerLocationToNiagara.uasset" SILENT=true
+[2023.05.26-04.55.48:660][233]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerLocationToNiagara
+[2023.05.26-04.55.48:660][233]LogSavePackage: Moving '../../../../../Users/s5262614/Desktop/GamesStudio/Saved/BP_PlayerLocationToNiagara89F3D1DF4DAB497F236A39A715F4E248.tmp' to '../../../../../Users/s5262614/Desktop/GamesStudio/Content/Blueprints/BP_PlayerLocationToNiagara.uasset'
+[2023.05.26-04.55.48:667][233]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 1:17 min)
+[2023.05.26-04.55.48:675][233]AssetCheck: New page: Asset Save: BP_PlayerLocationToNiagara
+[2023.05.26-04.55.48:675][233]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_PlayerLocationToNiagara.BP_PlayerLocationToNiagara
+[2023.05.26-04.56.08:825][444]LogSlate: Window 'Delete Variable' being destroyed
+[2023.05.26-04.56.08:832][444]LogScript: Warning: Accessed None trying to read property ParticleSystem
+	BP_PlayerLocationToNiagara_C /Game/Levels/GrassGrowing.GrassGrowing:PersistentLevel.BP_PlayerLocationToNiagara_C_1
+	Function /Game/Blueprints/BP_PlayerLocationToNiagara.BP_PlayerLocationToNiagara_C:UserConstructionScript:0016
+[2023.05.26-04.56.08:832][444]LogScript: Warning: Accessed None trying to read property ParticleSystem
+	BP_PlayerLocationToNiagara_C /Game/Levels/GrassGrowing.GrassGrowing:PersistentLevel.BP_PlayerLocationToNiagara_C_1
+	Function /Game/Blueprints/BP_PlayerLocationToNiagara.BP_PlayerLocationToNiagara_C:UserConstructionScript:0066
+[2023.05.26-04.56.08:832][444]LogScript: Warning: Accessed None trying to read property ParticleComponent
+	BP_PlayerLocationToNiagara_C /Game/Levels/GrassGrowing.GrassGrowing:PersistentLevel.BP_PlayerLocationToNiagara_C_1
+	Function /Game/Blueprints/BP_PlayerLocationToNiagara.BP_PlayerLocationToNiagara_C:UserConstructionScript:0087
+[2023.05.26-04.56.13:256][953]LogEditorTransaction: Undo Delete current selection
+[2023.05.26-04.56.13:266][953]LogScript: Warning: Accessed None trying to read property ParticleSystem
+	BP_PlayerLocationToNiagara_C /Game/Levels/GrassGrowing.GrassGrowing:PersistentLevel.BP_PlayerLocationToNiagara_C_1
+	Function /Game/Blueprints/BP_PlayerLocationToNiagara.BP_PlayerLocationToNiagara_C:UserConstructionScript:0016
+[2023.05.26-04.56.13:266][953]LogScript: Warning: Accessed None trying to read property ParticleSystem
+	BP_PlayerLocationToNiagara_C /Game/Levels/GrassGrowing.GrassGrowing:PersistentLevel.BP_PlayerLocationToNiagara_C_1
+	Function /Game/Blueprints/BP_PlayerLocationToNiagara.BP_PlayerLocationToNiagara_C:UserConstructionScript:0066
+[2023.05.26-04.56.13:266][953]LogScript: Warning: Accessed None trying to read property ParticleComponent
+	BP_PlayerLocationToNiagara_C /Game/Levels/GrassGrowing.GrassGrowing:PersistentLevel.BP_PlayerLocationToNiagara_C_1
+	Function /Game/Blueprints/BP_PlayerLocationToNiagara.BP_PlayerLocationToNiagara_C:UserConstructionScript:0087
+[2023.05.26-04.56.13:751][961]LogEditorTransaction: Undo Remove Variable
+[2023.05.26-04.56.13:757][961]LogScript: Warning: Accessed None trying to read property ParticleSystem
+	BP_PlayerLocationToNiagara_C /Game/Levels/GrassGrowing.GrassGrowing:PersistentLevel.BP_PlayerLocationToNiagara_C_1
+	Function /Game/Blueprints/BP_PlayerLocationToNiagara.BP_PlayerLocationToNiagara_C:UserConstructionScript:0016
+[2023.05.26-04.57.12:108][518]BlueprintLog: New page: Compile BP_PlayerLocationToNiagara
+[2023.05.26-04.57.12:170][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.05.26-04.57.12:224][518]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.26-04.57.12:282][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerLocationToNiagara" FILE="../../../../../Users/s5262614/Desktop/GamesStudio/Content/Blueprints/BP_PlayerLocationToNiagara.uasset" SILENT=true
+[2023.05.26-04.57.12:294][518]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerLocationToNiagara
+[2023.05.26-04.57.12:295][518]LogSavePackage: Moving '../../../../../Users/s5262614/Desktop/GamesStudio/Saved/BP_PlayerLocationToNiagaraD707A21C4BF19C9FE9D3E18EA73E3778.tmp' to '../../../../../Users/s5262614/Desktop/GamesStudio/Content/Blueprints/BP_PlayerLocationToNiagara.uasset'
+[2023.05.26-04.57.12:301][518]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 1:17 min)
+[2023.05.26-04.57.12:320][518]AssetCheck: New page: Asset Save: BP_PlayerLocationToNiagara
+[2023.05.26-04.57.12:320][518]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_PlayerLocationToNiagara.BP_PlayerLocationToNiagara
+[2023.05.26-04.58.29:639][401]BlueprintLog: New page: Compile BP_PlayerLocationToNiagara
+[2023.05.26-04.58.29:700][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.05.26-04.58.29:751][401]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.26-04.58.29:812][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerLocationToNiagara" FILE="../../../../../Users/s5262614/Desktop/GamesStudio/Content/Blueprints/BP_PlayerLocationToNiagara.uasset" SILENT=true
+[2023.05.26-04.58.29:824][401]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerLocationToNiagara
+[2023.05.26-04.58.29:825][401]LogSavePackage: Moving '../../../../../Users/s5262614/Desktop/GamesStudio/Saved/BP_PlayerLocationToNiagaraFC76303D405A9DD0CCF8A98CD02FD8BE.tmp' to '../../../../../Users/s5262614/Desktop/GamesStudio/Content/Blueprints/BP_PlayerLocationToNiagara.uasset'
+[2023.05.26-04.58.29:831][401]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 1:17 min)
+[2023.05.26-04.58.29:850][401]AssetCheck: New page: Asset Save: BP_PlayerLocationToNiagara
+[2023.05.26-04.58.29:850][401]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_PlayerLocationToNiagara.BP_PlayerLocationToNiagara
+[2023.05.26-04.58.32:059][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.05.26-04.58.32:066][620]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.26-04.58.32:118][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GrassGrowing" FILE="../../../../../Users/s5262614/Desktop/GamesStudio/Content/Levels/GrassGrowing.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.26-04.58.32:152][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.05.26-04.58.32:184][620]LogSavePackage: Moving output files for package: /Game/Levels/GrassGrowing
+[2023.05.26-04.58.32:184][620]LogSavePackage: Moving '../../../../../Users/s5262614/Desktop/GamesStudio/Saved/GrassGrowing52E0AD60450E17F55684EEA4F43B56A7.tmp' to '../../../../../Users/s5262614/Desktop/GamesStudio/Content/Levels/GrassGrowing.umap'
+[2023.05.26-04.58.32:205][620]LogFileHelpers: Saving map 'GrassGrowing' took 0.087
+[2023.05.26-04.58.32:212][620]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 1:17 min)
+[2023.05.26-04.58.32:219][620]AssetCheck: New page: Asset Save: GrassGrowing
+[2023.05.26-04.58.32:220][620]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/GrassGrowing.GrassGrowing
+[2023.05.26-04.58.41:798][760]LogEditorTransaction: Undo Straighten Connection(s)
+[2023.05.26-04.58.45:310][117]BlueprintLog: New page: Compile BP_PlayerLocationToNiagara
+[2023.05.26-04.58.45:370][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.05.26-04.58.45:423][117]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.26-04.58.45:476][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerLocationToNiagara" FILE="../../../../../Users/s5262614/Desktop/GamesStudio/Content/Blueprints/BP_PlayerLocationToNiagara.uasset" SILENT=true
+[2023.05.26-04.58.45:488][117]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerLocationToNiagara
+[2023.05.26-04.58.45:489][117]LogSavePackage: Moving '../../../../../Users/s5262614/Desktop/GamesStudio/Saved/BP_PlayerLocationToNiagaraA15F729946CF6BC848B4C182EA5FE061.tmp' to '../../../../../Users/s5262614/Desktop/GamesStudio/Content/Blueprints/BP_PlayerLocationToNiagara.uasset'
+[2023.05.26-04.58.45:496][117]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 1:17 min)
+[2023.05.26-04.58.45:502][117]AssetCheck: New page: Asset Save: BP_PlayerLocationToNiagara
+[2023.05.26-04.58.45:502][117]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_PlayerLocationToNiagara.BP_PlayerLocationToNiagara
+[2023.05.26-04.59.08:267][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.05.26-04.59.08:274][797]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.26-04.59.08:330][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GrassGrowing" FILE="../../../../../Users/s5262614/Desktop/GamesStudio/Content/Levels/GrassGrowing.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.26-04.59.08:364][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.05.26-04.59.08:395][797]LogSavePackage: Moving output files for package: /Game/Levels/GrassGrowing
+[2023.05.26-04.59.08:395][797]LogSavePackage: Moving '../../../../../Users/s5262614/Desktop/GamesStudio/Saved/GrassGrowing717AD2E04F694E6E24A885AF1C537AC3.tmp' to '../../../../../Users/s5262614/Desktop/GamesStudio/Content/Levels/GrassGrowing.umap'
+[2023.05.26-04.59.08:412][797]LogFileHelpers: Saving map 'GrassGrowing' took 0.083
+[2023.05.26-04.59.08:421][797]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 1:17 min)
+[2023.05.26-04.59.08:427][797]AssetCheck: New page: Asset Save: GrassGrowing
+[2023.05.26-04.59.08:427][797]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/GrassGrowing.GrassGrowing
+[2023.05.26-04.59.20:037][ 96]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.05.26-04.59.20:037][ 96]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.05.26-04.59.53:199][900]BlueprintLog: New page: Compile BP_PlayerLocationToNiagara
+[2023.05.26-04.59.53:262][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.05.26-04.59.53:314][900]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.26-04.59.53:367][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerLocationToNiagara" FILE="../../../../../Users/s5262614/Desktop/GamesStudio/Content/Blueprints/BP_PlayerLocationToNiagara.uasset" SILENT=true
+[2023.05.26-04.59.53:379][900]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerLocationToNiagara
+[2023.05.26-04.59.53:379][900]LogSavePackage: Moving '../../../../../Users/s5262614/Desktop/GamesStudio/Saved/BP_PlayerLocationToNiagaraA1580740466A9F0D63AA32B907FF3435.tmp' to '../../../../../Users/s5262614/Desktop/GamesStudio/Content/Blueprints/BP_PlayerLocationToNiagara.uasset'
+[2023.05.26-04.59.53:386][900]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 1:17 min)
+[2023.05.26-04.59.53:393][900]AssetCheck: New page: Asset Save: BP_PlayerLocationToNiagara
+[2023.05.26-04.59.53:393][900]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_PlayerLocationToNiagara.BP_PlayerLocationToNiagara
+[2023.05.26-04.59.58:486][467]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.05.26-04.59.58:486][467]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.05.26-05.00.23:949][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.05.26-05.00.23:956][397]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.26-05.00.24:011][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GrassGrowing" FILE="../../../../../Users/s5262614/Desktop/GamesStudio/Content/Levels/GrassGrowing.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.26-05.00.24:049][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.05.26-05.00.24:093][397]LogSavePackage: Moving output files for package: /Game/Levels/GrassGrowing
+[2023.05.26-05.00.24:094][397]LogSavePackage: Moving '../../../../../Users/s5262614/Desktop/GamesStudio/Saved/GrassGrowingFCE0618447F96DA4AA5BA288CB86AD2D.tmp' to '../../../../../Users/s5262614/Desktop/GamesStudio/Content/Levels/GrassGrowing.umap'
+[2023.05.26-05.00.24:112][397]LogFileHelpers: Saving map 'GrassGrowing' took 0.102
+[2023.05.26-05.00.24:113][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerLocationToNiagara" FILE="../../../../../Users/s5262614/Desktop/GamesStudio/Content/Blueprints/BP_PlayerLocationToNiagara.uasset" SILENT=true
+[2023.05.26-05.00.24:124][397]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerLocationToNiagara
+[2023.05.26-05.00.24:124][397]LogSavePackage: Moving '../../../../../Users/s5262614/Desktop/GamesStudio/Saved/BP_PlayerLocationToNiagara29BCF00E49274FA9CBAA8FA2A90DA344.tmp' to '../../../../../Users/s5262614/Desktop/GamesStudio/Content/Blueprints/BP_PlayerLocationToNiagara.uasset'
+[2023.05.26-05.00.24:131][397]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 1:17 min)
+[2023.05.26-05.00.24:139][397]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.26-05.00.24:139][397]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/GrassGrowing.GrassGrowing
+[2023.05.26-05.00.24:139][397]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_PlayerLocationToNiagara.BP_PlayerLocationToNiagara
+[2023.05.26-05.00.25:695][579]BlueprintLog: New page: Compile BP_PlayerLocationToNiagara
+[2023.05.26-05.00.25:752][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.05.26-05.00.27:388][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.05.26-05.00.27:394][752]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.26-05.00.27:446][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GrassGrowing" FILE="../../../../../Users/s5262614/Desktop/GamesStudio/Content/Levels/GrassGrowing.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.26-05.00.27:482][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.05.26-05.00.27:514][752]LogSavePackage: Moving output files for package: /Game/Levels/GrassGrowing
+[2023.05.26-05.00.27:514][752]LogSavePackage: Moving '../../../../../Users/s5262614/Desktop/GamesStudio/Saved/GrassGrowing2A16F101469FE997A963ADB86990E8C4.tmp' to '../../../../../Users/s5262614/Desktop/GamesStudio/Content/Levels/GrassGrowing.umap'
+[2023.05.26-05.00.27:532][752]LogFileHelpers: Saving map 'GrassGrowing' took 0.086
+[2023.05.26-05.00.27:539][752]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 1:18 min)
+[2023.05.26-05.00.27:546][752]AssetCheck: New page: Asset Save: GrassGrowing
+[2023.05.26-05.00.27:546][752]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/GrassGrowing.GrassGrowing
+[2023.05.26-05.00.45:181][768]LogViewport: Scene viewport resized to 761x816, mode Windowed.
+[2023.05.26-05.01.11:637][241]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/M_ColorDrain.M_ColorDrain
+[2023.05.26-05.01.11:640][241]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.26-05.01.11:739][241]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.26-05.01.11:739][241]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.05.26-05.01.11:739][241]MaterialEditorStats: Shader Count: 0
+[2023.05.26-05.01.11:743][241]LogViewport: Scene viewport resized to 247x626, mode Windowed.
+[2023.05.26-05.01.11:782][242]LogShaderCompilers: Display: ================================================
+[2023.05.26-05.01.11:782][242]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.26-05.01.11:782][242]LogShaderCompilers: Display: Total job queries 9928, among them cache hits 2348 (23.65%)
+[2023.05.26-05.01.11:782][242]LogShaderCompilers: Display: Tracking 7497 distinct input hashes that result in 4862 distinct outputs (64.85%)
+[2023.05.26-05.01.11:782][242]LogShaderCompilers: Display: RAM used: 24.78 MB (0.02 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.76%
+[2023.05.26-05.01.11:782][242]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.26-05.01.11:782][242]LogShaderCompilers: Display: Shaders Compiled: 7497
+[2023.05.26-05.01.11:782][242]LogShaderCompilers: Display: Jobs assigned 7497, completed 7497 (100.00%)
+[2023.05.26-05.01.11:782][242]LogShaderCompilers: Display: Average time worker was idle: 136.69 s
+[2023.05.26-05.01.11:782][242]LogShaderCompilers: Display: Time job spent in pending queue: average 108.32 s, longest 292.54 s
+[2023.05.26-05.01.11:782][242]LogShaderCompilers: Display: Job execution time: average 5.17 s, max 24.99 s
+[2023.05.26-05.01.11:782][242]LogShaderCompilers: Display: Job life time (pending + execution): average 113.50 s, max 300.74
+[2023.05.26-05.01.11:782][242]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 896.24 s
+[2023.05.26-05.01.11:782][242]LogShaderCompilers: Display: Jobs were issued in 2269 batches (only local compilation was used), average 3.30 jobs/batch
+[2023.05.26-05.01.11:782][242]LogShaderCompilers: Display: Average processing rate: 8.36 jobs/sec
+[2023.05.26-05.01.11:782][242]LogShaderCompilers: Display: Total thread time: 4417.87 s
+[2023.05.26-05.01.11:782][242]LogShaderCompilers: Display: Total thread preprocess time: 222.07 s
+[2023.05.26-05.01.11:782][242]LogShaderCompilers: Display: Percentage time preprocessing: 5.03%
+[2023.05.26-05.01.11:782][242]LogShaderCompilers: Display: Effective parallelization: 4.93 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.05.26-05.01.11:782][242]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.26-05.01.11:782][242]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 19.46 sec, max 19.46 sec, min 19.46 sec)
+[2023.05.26-05.01.11:782][242]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled    2 times, average 8.34 sec, max 9.99 sec, min 6.69 sec)
+[2023.05.26-05.01.11:782][242]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 6.54 sec, max 18.53 sec, min 0.49 sec)
+[2023.05.26-05.01.11:782][242]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 6.47 sec, max 6.47 sec, min 6.47 sec)
+[2023.05.26-05.01.11:782][242]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 6.38 sec, max 6.38 sec, min 6.38 sec)
+[2023.05.26-05.01.11:782][242]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.26-05.01.11:782][242]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 8.28% of total time (compiled  128 times, average 2.86 sec, max 4.83 sec, min 1.63 sec)
+[2023.05.26-05.01.11:782][242]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 5.33% of total time (compiled  128 times, average 1.84 sec, max 4.91 sec, min 0.29 sec)
+[2023.05.26-05.01.11:782][242]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 3.54% of total time (compiled  128 times, average 1.22 sec, max 2.05 sec, min 0.76 sec)
+[2023.05.26-05.01.11:782][242]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 3.46% of total time (compiled  221 times, average 0.69 sec, max 2.56 sec, min 0.30 sec)
+[2023.05.26-05.01.11:782][242]LogShaderCompilers: Display:                                             FDeferredLightPS - 3.43% of total time (compiled  102 times, average 1.49 sec, max 3.21 sec, min 0.45 sec)
+[2023.05.26-05.01.11:782][242]LogShaderCompilers: Display: ================================================
+[2023.05.26-05.01.11:814][243]MaterialEditorStats: Base pass shader: 453 instructions
+[2023.05.26-05.01.11:814][243]MaterialEditorStats: Base pass vertex shader: 252 instructions
+[2023.05.26-05.01.11:814][243]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.26-05.01.11:814][243]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2023.05.26-05.01.11:814][243]MaterialEditorStats: Shader Count: 4
+[2023.05.26-05.01.13:190][384]LogViewport: Scene viewport resized to 246x637, mode Windowed.
+[2023.05.26-05.01.13:273][386]LogViewport: Scene viewport resized to 168x423, mode Windowed.
+[2023.05.26-05.01.13:295][387]LogViewport: Scene viewport resized to 138x340, mode Windowed.
+[2023.05.26-05.01.13:392][391]LogViewport: Scene viewport resized to 138x346, mode Windowed.
+[2023.05.26-05.01.20:629][111]LogViewport: Scene viewport resized to 247x626, mode Windowed.
+[2023.05.26-05.01.21:881][159]LogViewport: Scene viewport resized to 138x346, mode Windowed.
+[2023.05.26-05.01.22:032][159]LogViewport: Scene viewport resized to 247x626, mode Windowed.
+[2023.05.26-05.02.00:098][375]BlueprintLog: New page: Compile BP_ColorGem
+[2023.05.26-05.02.00:159][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.05.26-05.02.00:194][375]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.26-05.02.00:251][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_ColorGem" FILE="../../../../../Users/s5262614/Desktop/GamesStudio/Content/Blueprints/BP_ColorGem.uasset" SILENT=true
+[2023.05.26-05.02.00:265][375]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_ColorGem
+[2023.05.26-05.02.00:266][375]LogSavePackage: Moving '../../../../../Users/s5262614/Desktop/GamesStudio/Saved/BP_ColorGemD52E115F4D1F7DFDFC4FBA9808EEF524.tmp' to '../../../../../Users/s5262614/Desktop/GamesStudio/Content/Blueprints/BP_ColorGem.uasset'
+[2023.05.26-05.02.00:274][375]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 1:18 min)
+[2023.05.26-05.02.00:281][375]AssetCheck: New page: Asset Save: BP_ColorGem
+[2023.05.26-05.02.00:281][375]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_ColorGem.BP_ColorGem
+[2023.05.26-05.03.04:768][882]BlueprintLog: New page: Compile BP_ColorGem
+[2023.05.26-05.03.04:829][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.05.26-05.03.04:875][882]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.26-05.03.04:921][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_ColorGem" FILE="../../../../../Users/s5262614/Desktop/GamesStudio/Content/Blueprints/BP_ColorGem.uasset" SILENT=true
+[2023.05.26-05.03.04:948][882]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_ColorGem
+[2023.05.26-05.03.04:948][882]LogSavePackage: Moving '../../../../../Users/s5262614/Desktop/GamesStudio/Saved/BP_ColorGemDEE856BA4A502C1BA33CEFB2AC02DA7D.tmp' to '../../../../../Users/s5262614/Desktop/GamesStudio/Content/Blueprints/BP_ColorGem.uasset'
+[2023.05.26-05.03.04:956][882]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 1:18 min)
+[2023.05.26-05.03.04:962][882]AssetCheck: New page: Asset Save: BP_ColorGem
+[2023.05.26-05.03.04:962][882]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_ColorGem.BP_ColorGem
+[2023.05.26-05.03.06:063][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.05.26-05.03.06:068][  5]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.26-05.03.06:109][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GrassGrowing" FILE="../../../../../Users/s5262614/Desktop/GamesStudio/Content/Levels/GrassGrowing.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.26-05.03.06:145][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.05.26-05.03.06:175][  5]LogSavePackage: Moving output files for package: /Game/Levels/GrassGrowing
+[2023.05.26-05.03.06:176][  5]LogSavePackage: Moving '../../../../../Users/s5262614/Desktop/GamesStudio/Saved/GrassGrowingBA3FE86647503C8B58454B9BBD433728.tmp' to '../../../../../Users/s5262614/Desktop/GamesStudio/Content/Levels/GrassGrowing.umap'
+[2023.05.26-05.03.06:194][  5]LogFileHelpers: Saving map 'GrassGrowing' took 0.085
+[2023.05.26-05.03.06:201][  5]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 1:18 min)
+[2023.05.26-05.03.06:208][  5]AssetCheck: New page: Asset Save: GrassGrowing
+[2023.05.26-05.03.06:208][  5]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/GrassGrowing.GrassGrowing
